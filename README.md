@@ -42,3 +42,9 @@ Covered sections:
 -  **Hands-on notebooks** to practice, learn, and revise  
 
 ---
+
+##  Certificate
+
+Completed the [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas).  
+📄 [View Certificate (PDF)](certificate/kaggle_pandas_certificate.pdf)  
+👤 [My Kaggle Profile](https://www.kaggle.com/mariamraafatbrownies)
