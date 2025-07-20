@@ -34,7 +34,11 @@ Covered sections:
 
 ---
 
-## 📁 Structure
-Each folder contains the Jupyter notebook (`.ipynb`) for that part, along with outputs or notes when applicable.
+##  What’s Included
+
+-  **25+ Pandas Projects**: covering real datasets and various concepts  
+-  **Kaggle Course Notebooks**: complete exercises from each lesson  
+-  **All Datasets Included** in the repository for reproducibility  
+-  **Hands-on notebooks** to practice, learn, and revise  
 
 ---
