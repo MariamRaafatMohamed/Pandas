@@ -46,5 +46,8 @@ Covered sections:
 ##  Certificate
 
 Completed the [Kaggle Pandas Course](https://www.kaggle.com/learn/pandas).  
- [View Certificate (PDF)](certificate/kaggle_pandas_certificate.pdf)  
- [My Kaggle Profile](https://www.kaggle.com/mariamraafatbrownies)
+Check out my certificate below:
+
+<img src="certificate/kaggle_pandas_certificate.png" alt="Kaggle Certificate" width="500"/>
+
+ [View on Kaggle](https://www.kaggle.com/mariamraafatbrownies)
